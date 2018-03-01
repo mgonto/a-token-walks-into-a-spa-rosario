@@ -2,7 +2,7 @@
 
 This are the slides for the talk A token walkts into a SPA...? It shows how to add authentication to an Angular app
 
-You can see them at [http://mgonto.github.io/a-a-token-walks-into-a-spa-rosario](http://mgonto.github.io/a-a-token-walks-into-a-spa-rosario)
+You can see them at [http://mgonto.github.io/a-token-walks-into-a-spa-rosario](http://mgonto.github.io/a-a-token-walks-into-a-spa-rosario)
 
 ## Thanks
 
